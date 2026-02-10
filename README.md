@@ -1,3 +1,3 @@
 
 ![Evidencia del workflow](Surge.png)
-![Evidencia del workflow](Web.png)
+![Evidencia del workflow](web.png)
